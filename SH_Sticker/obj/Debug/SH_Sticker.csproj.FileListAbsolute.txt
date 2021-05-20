@@ -1,0 +1,10 @@
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\bin\Debug\SH_Sticker.exe.config
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\bin\Debug\SH_Sticker.exe
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\bin\Debug\SH_Sticker.pdb
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.csprojResolveAssemblyReference.cache
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.Properties.Resources.resources
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.csproj.GenerateResource.Cache
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.exe
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.pdb
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.MainForm.resources
+c:\users\kac44\onedrive\문서\visual studio 2017\Projects\SH_Sticker\SH_Sticker\obj\Debug\SH_Sticker.TextMemo.resources
